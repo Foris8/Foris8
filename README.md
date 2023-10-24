@@ -1,8 +1,6 @@
-# Foris8
-
 <h1 align="center">Hi 👋, I'm Fanyi Tang</h1>
 <h3 align="center">A Full-stack engineer and Robotics Reasearcher</h3>
-
+<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" align="right">
 - 🔭 I’m currently working on [Trail Search Tool](https://fortrails-web-service.onrender.com/)
 
 - 👯 I’m looking to collaborate on [AI Email Generator](https://mailto.naimmiah.com/)
