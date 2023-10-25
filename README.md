@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <h1 align="center">Hi 👋, I'm Fanyi Tang</h1>
-<h3 align="center">A Full-stack engineer and Robotics Reasearcher</h3>
+<h3 align="center">A Full-stack engineer and Robotics Researcher</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" align="right">
 
 - 🔭 I’m currently working on [Trail Search Tool](https://fortrails-web-service.onrender.com/)
